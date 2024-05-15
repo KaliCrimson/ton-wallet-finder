@@ -1,7 +1,7 @@
 <h1>ton wallet generator with check balance</h1>
 
 
-speed: 1 wallet/second
+speed: 2-3 wallet/second
 
 setup: <br>
 pip install tonsdk <br>
